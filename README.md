@@ -1,5 +1,5 @@
 ## ABOUT ME
-Hello! I'm Chinemerem Oji Amogu 👴, a data analyst and consultant with a passion for turning data into actionable insights. With experience across sales, operations, finance and customer service, I help businesses solve challenges and unlock growth with data-driven decisions.
+Hello! I am Chinemerem Oji Amogu 👴, a data analyst and consultant with a passion for turning data into actionable insights. With experience across sales, operations, finance and customer service, I help businesses solve challenges and unlock growth with data-driven decisions.
 
 
 ## WHAT I DO
@@ -42,15 +42,13 @@ A deep dive into the market-fit of this educational platform.
     </tr>
     <tr>
       <td>⬇️</td>
-      <td><a href="https://etuk123456.github.io/portfolio1/docs/Profile.pdf">Download my CV</a></td>
+      <td><a href="Chinemerem's Professional CV Resume.pdf">Download my CV</a></td>
     </tr>
     <tr>
       <td>🌐</td>
       <td><a href="www.linkedin.com/in/chinemerem-amogu-b001b8215">The things I do daily on LinkedIn</a></td>
     </tr>
     <tr>
-      <td>📺</td>
-    
     </tr>
   </tbody>
 </table>

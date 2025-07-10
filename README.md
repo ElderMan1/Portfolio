@@ -12,7 +12,7 @@ Hello! I am Chinemerem Oji Amogu 👴, a data analyst and consultant with a pass
 
 ## MY PROJECTS 
 
-*A window into some of the projects I've been worked on.*
+*A window into some of the projects I've worked on.*
 
 **PERFECT EDUCATION’S BEHAVIOURAL DASHBOARD ANALYSIS.**
 ![image](PAGE 1.png)
@@ -34,7 +34,7 @@ A deep dive into the market-fit of this educational platform.
     </tr>
     <tr>
       <td>📞</td>
-      <td>(234) 818-287-3871</td>
+      <td>(+234) 818-287-3871</td>
     </tr>
     <tr>
       <td>📍</td>

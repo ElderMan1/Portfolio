@@ -46,7 +46,7 @@ A deep dive into the market-fit of this educational platform.
     </tr>
     <tr>
       <td>🌐</td>
-      <td><a href="www.linkedin.com/in/chinemerem-amogu">The things I do daily on LinkedIn</a></td>
+      <td><a href="www.linkedin.com/in/chinemerem-amogu/">The things I do daily on LinkedIn</a></td>
     </tr>
     <tr>
     </tr>
